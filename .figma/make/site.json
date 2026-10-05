@@ -1,0 +1,10 @@
+{
+  "description": "Engages university students, cafeterias, and cleaning staff in reducing disposable product use through daily challenges, tracking, rankings, and impact insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
